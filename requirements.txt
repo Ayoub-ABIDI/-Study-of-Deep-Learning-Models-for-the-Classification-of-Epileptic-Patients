@@ -1,0 +1,12 @@
+streamlit
+streamlit-option-menu
+tensorflow
+numpy
+pandas
+matplotlib
+plotly
+Pillow
+requests
+reportlab
+pywavelets
+sqlite3-binary
