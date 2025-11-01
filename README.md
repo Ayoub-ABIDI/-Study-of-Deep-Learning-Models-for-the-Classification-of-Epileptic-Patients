@@ -1,12 +1,12 @@
-# 🧠 Study of Deep Learning Models for the Classification of Epileptic Patients
+# Study of Deep Learning Models for the Classification of Epileptic Patients
 
-### 📍 End of Year Project 2 — RISC Laboratory, ENIT
+###  End of Year Project 2 — RISC Laboratory, ENIT
 
 **Duration:** October 2024 – April 2025
 
 ---
 
-## 🩺 Overview
+## Overview
 
 This project presents a comparative study of deep learning architectures for classifying **epileptic patients** based on **EEG data**.
 The goal is to explore and evaluate different preprocessing and modeling strategies to enhance the accuracy and clinical relevance of EEG-based epilepsy detection.
@@ -14,7 +14,7 @@ A simple **Streamlit interface** is provided to classify EEG data in real time, 
 
 ---
 
-## 🧩 Objectives
+## Objectives
 
 * Analyze EEG data and extract relevant features for classification.
 * Compare the performance of multiple deep learning architectures.
@@ -33,7 +33,7 @@ Each model was trained and tested under various conditions to compare classifica
 
 ---
 
-## ⚙️ Preprocessing Techniques
+## Preprocessing Techniques
 
 * **Wavelet Decomposition:** for time-frequency analysis of EEG signals.
 * **Third-Order Derivative Filtering:** to enhance subtle signal variations.
@@ -42,7 +42,7 @@ These methods improved the signal-to-noise ratio and supported more robust featu
 
 ---
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 * **Accuracy**
 * **Precision**
@@ -53,7 +53,7 @@ Experiments included **binary** and **multi-class** classifications across six d
 
 ---
 
-## 💻 Technologies Used
+## Technologies Used
 
 * **Programming Language:** Python
 * **Frameworks & Libraries:** TensorFlow, Keras, Scikit-learn
@@ -64,14 +64,14 @@ Experiments included **binary** and **multi-class** classifications across six d
 
 ---
 
-## 🧪 Results Summary
+## Results Summary
 
 The **CNN-LSTM hybrid model** achieved the most consistent performance across preprocessing methods, showing improved generalization and faster convergence.
 Wavelet preprocessing was particularly effective for reducing noise and improving feature discriminability in EEG signals.
 
 ---
 
-## 🚀 How to Run the Interface
+## How to Run the Interface
 
 1. Clone this repository:
 
@@ -91,16 +91,9 @@ Wavelet preprocessing was particularly effective for reducing noise and improvin
 
 ---
 
-## 🧑‍🔬 Authors
-
-**Ayoub Abidi**
-Master’s Student – National Engineering School of Tunis (ENIT)
-RISC Laboratory
-
----
-
 ## 📚 Keywords
 
 `EEG` · `Deep Learning` · `Epilepsy` · `CNN` · `LSTM` · `Signal Processing` · `Wavelet` · `Biomedical AI`
 
 ---
+
